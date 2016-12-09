@@ -407,7 +407,7 @@ input:focus, textarea:focus{
     margin: 0;
   }
 
- #nombre {
+ #nombre, #email {
       margin-bottom: 20px;
   }
   #nombre, #email {
@@ -416,11 +416,18 @@ input:focus, textarea:focus{
   }
 
   .sexo label{
+    zoom: 1.5px;
     display: block;
+    margin-bottom: 10px;
   }
 
-  .radios,  .check {
-    zoom: 1.5px;
+  .intereses label{
+    font-size: 20px;
+    zoom: 20px;
+  }
+
+  .radios {
+    zoom: 20px;
     font-size: 20px;
   }
 
