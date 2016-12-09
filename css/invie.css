@@ -390,7 +390,7 @@ input:focus, textarea:focus{
     display: block;
   }
   .contacto{
-    margin: 0 auto;
+    margin: 30px auto;
     width: 300px;
   }
   .formulario{
@@ -411,24 +411,24 @@ input:focus, textarea:focus{
       margin-bottom: 20px;
   }
   #nombre, #email {
-    font-size: 20px;
-    padding: 5px;
+    font-size: 16px;
+    padding: 8px;
   }
 
   .sexo label{
-    zoom: 1.5px;
+    zoom: 1.2;
     display: block;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
   }
 
   .intereses label{
-    font-size: 20px;
-    zoom: 20px;
+    font-size: 16px;
+    zoom: 1.2;
   }
 
   .radios {
-    zoom: 20px;
-    font-size: 20px;
+    zoom: 1;
+    font-size: 16px;
   }
 
   textarea{
